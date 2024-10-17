@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zwdemz)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=zwdemz&row=2&column=3&theme=onedark)](https://github.com/zwdemz/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zwdemz&theme=onedark)](https://github.com/zwdemz/)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
