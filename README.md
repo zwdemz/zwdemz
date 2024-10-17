@@ -21,5 +21,4 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
-[![visitors]](https://visitor-badge.glitch.me/badge?page_id=zwdemz.visitor-badged&left_color=green&right_color=red)
-<img src="https://visitor-badge.glitch.me/badge?page_id=zwdemz.visitor-badged" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=zwdemz.zwdemz" alt="visitor badge"/>
