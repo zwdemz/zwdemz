@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
-[![trophy](https://github-profile-trophy.vercel.app/?username=zwdemz)](https://github.com/zwdemz/zwdemz.github.io)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zwdemz&theme=onedark)](https://github.com/zwdemz/cs-self-learning)
