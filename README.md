@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)
+[![Anurag's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
 
 <!---
