@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
+https://github-readme-stats.vercel.app/api/top-langs/?username=zwdemz
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zwdemz)](https://git.io/streak-stats)
 --->
