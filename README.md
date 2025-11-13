@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 
+
+<h1 >
+<a href="https://zwdemz.github.io">
+<img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=%23B335F7&size=22&vCenter=true&height=40&lines=Hi+Nice+to+see+you+👋;%E5%97%A8%20%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E4%BD%A0👋">
+  </a>
+</h1>  
 [![Anurag's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
 
