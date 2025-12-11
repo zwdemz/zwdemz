@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--
 [![Anurag's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)
 -->    
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
+[![zwdemz's GitHub stats](https://github-readme-stats.vercel.app/api?username=zwdemz&count_private=true&show_icons=true&theme=react)](https://github.com/zwdemz/)
 
 <!---
 [![GitHub Streak](https://streak-stats.demolab.com/?user=zwdemz)](https://git.io/streak-stats)
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>    
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zwdemz&column=-1&theme=onedark)](https://github.com/zwdemz/)
+[![zwdemz](https://github-profile-trophy.vercel.app/?username=zwdemz&column=-1&theme=onedark)](https://github.com/zwdemz/)
