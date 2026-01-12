@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Hi, Nice to see you 👋  
 
 <img align='right' src="https://github-readme-stats.zohan.tech/api?username=zwdemz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">  
