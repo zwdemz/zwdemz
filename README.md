@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/svg?lines=Security%20Tool%20Developer;Web3%20%26%20Blockchain%20Learner;DevSecOps%20Practitioner;Blue%20Team%20Builder&font=Fira%20Code&weight=600&size=20&color=2B6CB0&center=true&vCenter=true&width=600&height=42&duration=2500&pause=1000" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?lines=Security%20Tool%20Developer;Web3%20%26%20Blockchain%20Learner;DevSecOps%20Practitioner;Blue%20Team%20Builder&font=Fira%20Code&weight=600&size=20&color=2B6CB0&center=true&vCenter=true&width=600&height=42&duration=2500&pause=1000" alt="Typing SVG" />
 
 </div>
 
