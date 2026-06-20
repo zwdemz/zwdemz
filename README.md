@@ -4,9 +4,15 @@
 
 - 👋 Hi, my ID is [zwdemz](https://github.com/zwdemz).
 - 🌱 I'm currently learning web3，blockchain and DevSecOps.
-- 👋 My Blog: [https://blog.amireuxox.cn](https://blog.amireuxox.cn)
+- 👋 My Blog: [https://zwdemz.netlify.app](https://zwdemz.netlify.app)
 
 [![zwdemz's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com/svg?lines=Security%20Tool%20Developer;Web3%20%26%20Blockchain%20Learner;DevSecOps%20Practitioner;Blue%20Team%20Builder&font=Fira%20Code&weight=600&size=20&color=2B6CB0&center=true&vCenter=true&width=600&height=42&duration=2500&pause=1000" alt="Typing SVG" />
+
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,ae,instagram)](https://skillicons.dev)
 
