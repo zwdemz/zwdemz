@@ -48,6 +48,13 @@ I build practical security tools and keep exploring the intersection of **Web3**
   <img src="https://skillicons.dev/icons?i=html,js,mysql,redis,git,githubactions" alt="Web, data, and developer tools" />
 </p>
 
+## GitHub at a glance
+
+<div align="center">
+  <img height="170" src="./profile/stats.svg" alt="GitHub contribution status and rank" />
+  <img height="170" src="./profile/top-langs.svg" alt="Programming languages ranked by GitHub activity" />
+</div>
+
 ## Contribution activity
 
 <div align="center">
