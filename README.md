@@ -1,26 +1,61 @@
-## Hi, Nice to see you 👋  
-
-<img align='right' src="https://github-readme-stats.zohan.tech/api?username=zwdemz&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" width="400">  
-
-- 👋 Hi, my ID is [zwdemz](https://github.com/zwdemz).
-- 🌱 I'm currently learning web3，blockchain and DevSecOps.
-- 👋 My Blog: [https://zwdemz.netlify.app](https://zwdemz.netlify.app)
-
-[![zwdemz's GitHub stats](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz/)
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?lines=Security%20Tool%20Developer;Web3%20%26%20Blockchain%20Learner;DevSecOps%20Practitioner;Blue%20Team%20Builder&font=Fira%20Code&weight=600&size=20&color=2B6CB0&center=true&vCenter=true&width=600&height=42&duration=2500&pause=1000" alt="Typing SVG" />
+# Hi, I'm zwdemz
+
+**Security Tool Developer · Web3 & Blockchain Learner · DevSecOps Practitioner**
+
+[![Blog](https://img.shields.io/badge/Blog-zwdemz.netlify.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zwdemz.netlify.app)
+[![GitHub followers](https://img.shields.io/github/followers/zwdemz?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/zwdemz?tab=followers)
+[![Profile views](https://komarev.com/ghpvc/?username=zwdemz&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/zwdemz)
 
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=python,flask,java,spring,idea,go,aws,cloudflare,gcp,linux,raspberrypi,docker,kubernetes,bash,php,html,js,androidstudio,cpp,c,git,githubactions,md,mysql,redis,arduino,ps,pr,ae,instagram)](https://skillicons.dev)
+## About me
 
+I build practical security tools and keep exploring the intersection of **Web3**, **cloud-native infrastructure**, and **DevSecOps**. I enjoy turning complex engineering and security problems into clear, maintainable solutions.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
-</picture>
+- Building developer-friendly security tooling
+- Learning Web3 and blockchain engineering
+- Practising cloud infrastructure, automation, and secure delivery
 
-  ![GitHub followers](https://img.shields.io/github/followers/zwdemz?label=Followers&style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/zwdemz?style=social)
+## Focus areas
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Security Engineering</h3>
+      <p>Security tools, secure coding, and practical defensive workflows.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Cloud & DevSecOps</h3>
+      <p>Automation, containers, CI/CD, and reliable infrastructure.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Web3 Exploration</h3>
+      <p>Learning blockchain foundations and the developer ecosystem.</p>
+    </td>
+  </tr>
+</table>
+
+## Technology toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,spring,flask,php" alt="Languages and backend technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,linux,bash" alt="Cloud and DevOps technologies" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=html,js,mysql,redis,git,githubactions" alt="Web, data, and developer tools" />
+</p>
+
+## GitHub at a glance
+
+<div align="center">
+  <img height="168" src="https://github-readme-stats.vercel.app/api?username=zwdemz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="zwdemz's GitHub statistics" />
+  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwdemz&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="zwdemz's most used languages" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zwdemz/zwdemz/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zwdemz/zwdemz/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated GitHub contribution graph for zwdemz" src="https://raw.githubusercontent.com/zwdemz/zwdemz/output/github-contribution-grid-snake.svg" />
