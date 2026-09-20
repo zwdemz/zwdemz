@@ -7,6 +7,7 @@
 [![Blog](https://img.shields.io/badge/Blog-zwdemz.netlify.app-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zwdemz.netlify.app)
 [![GitHub followers](https://img.shields.io/github/followers/zwdemz?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/zwdemz?tab=followers)
 [![Profile views](https://komarev.com/ghpvc/?username=zwdemz&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS)](https://github.com/zwdemz)
+[![Visitor count](https://api.moedog.org/count/@zwdemz.readme)](https://github.com/zwdemz)
 
 </div>
 
@@ -47,12 +48,7 @@ I build practical security tools and keep exploring the intersection of **Web3**
   <img src="https://skillicons.dev/icons?i=html,js,mysql,redis,git,githubactions" alt="Web, data, and developer tools" />
 </p>
 
-## GitHub at a glance
-
-<div align="center">
-  <img height="168" src="https://github-readme-stats.vercel.app/api?username=zwdemz&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="zwdemz's GitHub statistics" />
-  <img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zwdemz&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="zwdemz's most used languages" />
-</div>
+## Contribution activity
 
 <div align="center">
   <picture>
